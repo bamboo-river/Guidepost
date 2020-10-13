@@ -40,7 +40,7 @@
 <!-- 请使用超链接的方式添加资源。 -->
 
 * [保密技术基础知识点总结](https://github.com/SLinShi/is-database/blob/main/%E4%BF%9D%E5%AF%86%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80A/%E4%BF%9D%E5%AF%86%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93.pdf)
-* [往年试卷](https://github.com/SLinShi/is-database/blob/main/%E4%BF%9D%E5%AF%86%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80A/%E4%BF%9D%E5%AF%86%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80A%E8%AF%95%E5%8D%B7.pdf)
+* [往年试卷](http://kczx.hnu.edu.cn/G2S/Template/View.aspx?courseId=965&topMenuId=133206&action=view&type=&name=&menuType=1)
 
 ## Labs
 
